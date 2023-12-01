@@ -1,0 +1,18 @@
+Algoritmo
+
+Operadores
+- Aritmétícos: Para fazer conta (+, -, *, /, %[resto da divisão], **[potência])
+- Atribuição: (= [recebe], +=, -=, *=, /=, %=, **=, ++[acrescenta 1], --[diminui 1])
+- Relacionais: (>, <, >=, <=, ==[verifica só o valor], !=[diferente], !==,[varifica o tipo] <>[diferente], ===[verificar valor e tipo]) vai retornar boolean (true/false)
+- Lógicos: (!, &&, ||)
+- Ternário: (?[se], :[senão])
+
+DOM
+- Document Object Model
+> Marca [tag]:
+getElementByTagName
+> ID:
+getElementsById
+> Nome
+> Classe
+> Seletor
